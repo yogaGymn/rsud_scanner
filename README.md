@@ -1,30 +1,23 @@
-  _____   _____ _    _ _____    __  __              _ ______ _   _          _   _  _____ 
- |  __ \ / ____| |  | |  __ \  |  \/  |   /\       | |  ____| \ | |   /\   | \ | |/ ____|
- | |__) | (___ | |  | | |  | | | \  / |  /  \      | | |__  |  \| |  /  \  |  \| | |  __ 
- |  _  / \___ \| |  | | |  | | | |\/| | / /\ \ _   | |  __| | . ` | / /\ \ | . ` | | |_ |
- | | \ \ ____) | |__| | |__| | | |  | |/ ____ \ |__| | |____| |\  |/ ____ \| |\  | |__| |
- |_|  \_\_____/ \____/|_____/  |_|  |_/_/    \_\____/|______|_| \_/_/    \_\_| \_| \_____|
+<img width="721" height="169" alt="image" src="https://github.com/user-attachments/assets/62a8aec8-c7aa-482c-a2f3-166f12c3c482" />
 
-                 Tools Security Directory & Data Breach — rsud_scanner
-                              Author: @YogaGymn
 
 
 📌 Ringkasan
 
-rsud_scanner adalah alat CLI sederhana untuk security testing:
+    rsud_scanner adalah alat CLI untuk security testing:
 
-🔎 Scan Directory → Menggabungkan target yang Anda masukkan dengan daftar path dari directoary.txt.
+   🔎 Scan Directory → Menggabungkan target yang Anda masukkan dengan daftar path dari directoary.txt.
 
-🔐 Data Breach → Mengecek daftar endpoint dari databreach.txt terhadap daftar situs bawaan.
+   🔐 Data Breach → Mengecek daftar endpoint dari databreach.txt terhadap daftar situs bawaan.
 
-Output ditampilkan realtime dengan warna menarik, lalu diakhiri dengan tabel hasil valid yang rapi.
+    Output ditampilkan realtime dengan warna menarik, lalu diakhiri dengan tabel hasil valid yang rapi.
 
 ⚠️ Gunakan hanya pada sistem yang Anda miliki izin eksplisit untuk diuji.
 
 
 ⚙️ Instalasi
 
-   *Windows*
+   **Windows**
    # clone repo
 git clone https://github.com/username/rsud_scanner.git
 cd rsud_scanner
@@ -37,7 +30,7 @@ python -m venv .venv
 pip install -r requirements.txt
 
 
-*Linux*
+**Linux**
 # clone repo
 git clone https://github.com/username/rsud_scanner.git
 cd rsud_scanner
