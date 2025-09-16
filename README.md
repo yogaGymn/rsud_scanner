@@ -18,6 +18,7 @@
 ⚙️ Instalasi
 
    **Windows**
+   
    # clone repo
 git clone https://github.com/username/rsud_scanner.git
 cd rsud_scanner
@@ -31,6 +32,7 @@ pip install -r requirements.txt
 
 
 **Linux**
+
 # clone repo
 git clone https://github.com/username/rsud_scanner.git
 cd rsud_scanner
