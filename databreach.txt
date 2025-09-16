@@ -1,0 +1,28 @@
+NIK
+No. KTP
+tanggal lahir
+tempat lahir
+nama ibu kandung
+alamat
+NPWP
+SIM
+Paspor
+kartu keluarga
+biodata
+rekam_medis
+data biometrik
+sidik jari
+retina scan
+DNA
+Face ID
+Voice recognition
+Kartu Kredit
+Nomor Rekening Bank
+Nomor kartu debit
+CVV
+CVC
+Saldo e-wallet
+Nomor BPJS Kesehatan
+Diagnosis medis
+Resep obat
+Hasil lab
